@@ -1,0 +1,13 @@
+{
+    "name": "tamanna/test-package",
+    "description": "test package for learning",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Tamanna\\TestPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
